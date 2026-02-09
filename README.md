@@ -57,3 +57,19 @@ Implemented using Java Swing.
 
 ## Project Structure
 
+- `src/` – Java source files
+- `userdata.txt` – File-based user data storage
+
+## How to Run
+
+1. Clone the repository.
+2. Open the project in any Java IDE (IntelliJ IDEA, Eclipse, or NetBeans).
+3. Run the main class (`OgrenciIsleriOtomasyonu.java` or `TestFrame.java`).
+4. Use the login screen to access different roles.
+
+---
+
+## Notes
+
+This project was developed as an academic assignment to practice object-oriented
+programming and basic GUI development in Java.
