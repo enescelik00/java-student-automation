@@ -1,0 +1,12 @@
+Ogrenci,1,password,Sadık Çiftpınar,11.11.2001,Bilgisayar Mühendisliği,4
+Ogrenci,2,password,Zahit Karaca,20.04.2005,Veterinerlik,1
+Ogrenci,3,password,Sude Çentik,05.03.2005,İşletme,Hazırlık
+Ogrenci,4,password,Sema Kurt,09.07.2000,Veterinerlik,4
+Ogrenci,456,ogrenci456,Enes Çelik,28.05.1999,Bilgisayar Mühendisliği,2
+Ogretmen,11,password,Arda Kaya,Ekonomi
+Ogretmen,45,password,Ramiz,Matematik
+Ogretmen,13,password,Sabri Uçan,Bilgisayar Bilimleri
+Ogretmen,14,password,İlayda Keskin,Fen Bilimleri
+Ogretmen,15,password,Barış Sarı,Anatomi
+Ogretmen,789,ogretmen789,Turan Çaldıran,Matematik
+Idare,123,idare123,Muammer Yönev
